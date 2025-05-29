@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div>
-      <h1>Users List</h1>
+      <h1>Users Table</h1>
       <form
         onSubmit={(e) => {
           e.preventDefault();
