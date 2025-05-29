@@ -45,7 +45,7 @@ function App() {
           onChange={(e) => setName(e.target.value)}
           placeholder="Enter name"
         />
-        <button type="submit">Qo'sh</button>
+        <button type="submit">Add</button>
       </form>
       <ul>
         {users.map((user) => (
